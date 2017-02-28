@@ -1,0 +1,11 @@
+
+Hello Sir,
+
+As you know that, I am working from client location Bangalore for project KSSC. I need the access of SVN so that I can synchronize my code with the current repository.
+
+Repository location which I want to access is : https://192.168.10.16/svn/ERP/trunk/
+
+I am providing the public ip address of my location which is : 59.92.230.92
+
+
+Kindly approve the same.
